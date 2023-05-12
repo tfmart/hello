@@ -82,9 +82,15 @@ I've designed the experience to be the most streamlined and ease to use as possi
 
 The app is built entirely in SwiftUI and makes uses of AVFoundation to listen to the user's microphone, ShazamKit to pass the audio stream from the microphone to the Shazam media recognition tool and then interacts with Last.fm REST API in order to scrobble songs to the service. Since the app's debut in August 2022, I've also implemented many new framework and features in order to make it a good iOS citizen, such as integration with the Music app, Lock Screen Widgets and, the most popular one so far, Live Activites.
 
+![AirScrobble Integrations](resouces/airscrobble/integrations.png)
+
 I leveraged the Live Activities framework to build a feature name Auto Match, which let users listen and scrobble to songs playing around them or through their device speakers continuously, even if the app is in the background or the device is locked. By pressing and holding the record button, the Auto Match feature is activated, so the user can then dismiss the app or lock their device, while keeping on track on what's playing around them with the Live Activity widget which, just like inside the app, blends it's visuals nicely with the artwork of what's playing in the moment. Users with the Dynamic Island can also keep track of what's playing on it
 
+![Auto Match Live Activity](resouces/airscrobble/live-activity.png)
+
 The app also has an iPad version that takes advantage of the screen real estate, by providing a new visual for the discovery history page in the app, having full support to multitasking modes, such as Split View and Stage Manager, and keyboard shortcut support for quickly moving around the app
+
+![iPad features](resouces/airscrobble/ipad.png)
 
 The userbase loves the experience that AirScrobble brings to the table, with many leaving great reviews in the store and some reaching me out to tell me about their experiences. We had a user that used the app to convert cassette mixtapes that were playing on their stereo into Apple Music playlists, one that used the app to scrobble the soundtrack of the movie they were watching at the movie theater and others to scrobble a DJ set. The app also has been covered by the press on websites like MacStories and MacMagazine
 
