@@ -143,7 +143,9 @@ The presentation is in Portuguese, but both the slides and the demo code of the 
 
 On the first CocoaHeads meetup after the WWDC 2022 event, I've joined other developers to discuss all the news from the event, sharing my opinions and discussing with the other members how these new features and APIs could impact the products we were working on.
 
-This discussion was also in Portuguese
+This discussion was also in Portuguese and you can watch it by clicking on the image below:
+
+[![Guru being feature in WWDC 2022](resouces/presentation/roundatble22.png)](https://www.youtube.com/watch?v=VeGk7-d2k_A&t=18s)
 
 # Open Source
 
