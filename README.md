@@ -70,7 +70,9 @@ These are apps that have been entirely designed, developed and published by me:
 
 ## AirScrobble
 
-*[Download for free](https://apps.apple.com/us/app/airscrobble/id1618366994 )*
+*[Download for free](https://apps.apple.com/us/app/airscrobble/id1618366994)*
+
+![Dafiti iPad app featured on Apple Pay](resouces/airscrobble/hero.png)
 
 AirScrobble started as single-purpose tool with one goal: allow users of the music website Last.fm to identify songs that were playing in real life, like on a concert, at a café or at their record players, and log them to their profile in the website. I had the idea for the app as live events started to comeback after the pandemic started winding down. There were many tools that allow us to scrobble songs we listen through the digital medium, such as music being streamed or played from our phones or laptops, but I couldn't find a good solution if I wanted to scrobble along a set list of a concert I was attending on or if the venue I was visiting had a playlist going on that was right on my alley. So I designed AirScrobble to fill this gap, which I ended finding out that it ended scratching an itch of many different people
 
