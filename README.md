@@ -57,6 +57,7 @@ Our work even resulted in the main app of the suite, Dafiti, being featured on t
 - Objective-C
 - UIKit (Auto Layout, XIBs and Storyboards)
 - MVVM (Refactored Code) and MVC (Legacy Code)
+- Universal app (iPhone and iPad)
 - Fastlane
 - Firebase (Remote Config, A/B Testing, App Distribution)
 - CI/CD
@@ -89,6 +90,7 @@ Launching AirScrobble, which was my first self-published app in the App Store ha
 - Swift
 - SwiftUI
 - MVVM
+- Universal app (iPhone and iPad)
 - AVFoundation
 - ShazamKit
 - Last.fm REST API
