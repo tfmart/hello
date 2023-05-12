@@ -72,11 +72,13 @@ These are apps that have been entirely designed, developed and published by me:
 
 *[Download for free](https://apps.apple.com/us/app/airscrobble/id1618366994)*
 
-![Dafiti iPad app featured on Apple Pay](resouces/airscrobble/hero.png)
+![AirScrobble](resouces/airscrobble/hero.png)
 
 AirScrobble started as single-purpose tool with one goal: allow users of the music website Last.fm to identify songs that were playing in real life, like on a concert, at a café or at their record players, and log them to their profile in the website. I had the idea for the app as live events started to comeback after the pandemic started winding down. There were many tools that allow us to scrobble songs we listen through the digital medium, such as music being streamed or played from our phones or laptops, but I couldn't find a good solution if I wanted to scrobble along a set list of a concert I was attending on or if the venue I was visiting had a playlist going on that was right on my alley. So I designed AirScrobble to fill this gap, which I ended finding out that it ended scratching an itch of many different people
 
 I've designed the experience to be the most streamlined and ease to use as possible. Upon opening the app, the user is presented with a big red record button. Although simple, this design is intentional so that the button can be easily be pressed without having to distract the user on what they're experiencing in the moment, so you can, for example, name the and scrobble tunes that are playing on your local café without distracting you from the conversation you might be having with your friends there. When a song is matched, it takes center stage as the app adapts its interface to the artwork of the current song, if any, so that they can have a nicer layout if the user ends up paying mind to the app. A button to scrobble the current match is readily available alongside the big record button, so you can easily keep the matching going
+
+![AirScrobble](resouces/airscrobble/record.png)
 
 The app is built entirely in SwiftUI and makes uses of AVFoundation to listen to the user's microphone, ShazamKit to pass the audio stream from the microphone to the Shazam media recognition tool and then interacts with Last.fm REST API in order to scrobble songs to the service. Since the app's debut in August 2022, I've also implemented many new framework and features in order to make it a good iOS citizen, such as integration with the Music app, Lock Screen Widgets and, the most popular one so far, Live Activites.
 
