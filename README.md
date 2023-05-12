@@ -4,7 +4,7 @@ I am an avid Apple platforms user and developer, with extensive experience creat
 
 If you're looking for an experienced and dedicated developer to bring your product to life or take your existing solution to the next level, I'm here to help. Feel free to reach out to me through any of the following channels:
 
-- [LinkedIn[(https://www.linkedin.com/in/tfmart)
+- [LinkedIn](https://www.linkedin.com/in/tfmart)
 - [Twitter](https://twitter.com/tommycadle)
 
 # Previous Clients/Employers
