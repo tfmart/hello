@@ -19,6 +19,10 @@ To achieve this goal, I collaborated closely with the product and design team to
 
 Thanks to our efforts, the Guru app quickly became a standout in the digital broker market, garnering high user satisfaction and accolades from industry experts. Our app was named one of the "Top 10 Financial Apps" in the Brazilian App Store, and was even featured in the Main Event of WWDC 2022 due to its integration with Siri. I'm proud to have been part of this exciting journey and to have contributed to its success.
 
+### Featured in:
+- [Top 10 Finance Apps (Brazilian App Store, as of May 2023)](https://apps.apple.com/br/story/id1599761254)
+- [Featured in WWDC 2022 Keynote, due to it's integrations with Siri (at 16:32)](https://www.youtube.com/live/q5D55G7Ejs8?feature=share&t=986)
+
 ### Stack
 - Swift
 - SwiftUI
@@ -39,6 +43,10 @@ During my time at Dextra Digital, I worked on the three main projects of Global 
 Our efforts resulted in more reliable products for the hundreds of thousands of users across Latin America. By writing scalable and maintainable code, we were able to fix many bugs and errors affecting the userbase. Our solutions enabled the apps to survive stress tests during many shopping holidays, making them the main point of sale for all three marketplaces and ultimately increasing revenue.
 
 Our work even resulted in the main app of the suite, Dafiti, being featured on the App Store and on the Brazilian website of Apple Pay.
+
+### Featured in:
+- [App of the Day](https://apps.apple.com/br/story/id1368071848)
+- [Apple Pay Website (Brazil)](https://www.apple.com/br/apple-pay/)
 
 ### Stack
 - Swift
@@ -88,7 +96,7 @@ Launching AirScrobble, which was my first self-published app in the App Store ha
 - UserNotification
 - AppIntents
 
-### Press Coverage
+### Featured in:
 - [🇧🇷 MacMagazine: "Faça scrobble das músicas que ouve em tempo real com o AirScrobble"](https://macmagazine.com.br/post/2023/05/01/faca-scrobble-das-musicas-que-ouve-em-tempo-real-com-o-airscrobble/)
 - [🇩🇪 iPhoneblog.de: "AirScrobble – die freihändige Musikerkennung"](https://www.iphoneblog.de/2023/02/27/airscrobble-die-freihandige-musikerkennung/)
 - [🇬🇧 MacStories: "Scrobbling Apple Music to Last.fm from Windows with AirScrobble and Cider"](https://club.macstories.net/posts/scrobbling-apple-music-to-last-fm-from-windows-with-airscrobble-and-cider)
@@ -148,3 +156,5 @@ You can learn more on the LottieUI repository
 ## Giphy
 
 Giphy is a small package to display animated GIFs in SwiftUI. The Giffy view wraps Flipboard's FLAnimatedImage component, which has been field-tested in many major apps such as Facebook and Slack, so you can assure all animations will be memory-efficient
+
+You can learn more on the Giffy repository
