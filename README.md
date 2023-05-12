@@ -140,6 +140,8 @@ I've found the AppIntents API to be one of the most underrated from 2022's WWDC.
 
 The presentation is in Portuguese, but both the slides and the demo code of the presentation are in English and you can check them out on the links below:
 
+[![AppIntents & Shortcuts presentation](resouces/presentation/appintents.png)](https://www.youtube.com/watch?v=v3nYRXaW7Ko)
+
 - [Presentation](https://drive.google.com/drive/u/0/folders/1rgrMvyJs_-wFyGAKqQTGP3AtGEnRwcmS)
 - [Demo code](https://www.youtube.com/watch?v=v3nYRXaW7Ko&t=1s)
 
