@@ -161,10 +161,10 @@ Below are my most notable open-source projects. If you want to checkout some oth
 
 LottieUI is a wrapper for the popular Lottie animation library from Airbnb, providing a more declarative API in order to display animations both stored locally and on the web, while providing a set of modifiers to customize the playback of an animation. The goal was to allow users to display Lottie animation on a API that feels right at home with other SwiftUI views
 
-You can learn more on the LottieUI repository
+[You can learn more on the LottieUI repository](https://github.com/tfmart/LottieUI)
 
 ## Giphy
 
 Giphy is a small package to display animated GIFs in SwiftUI. The Giffy view wraps Flipboard's FLAnimatedImage component, which has been field-tested in many major apps such as Facebook and Slack, so you can assure all animations will be memory-efficient
 
-You can learn more on the Giffy repository
+[You can learn more on the Giffy repository](https://github.com/tfmart/Giffy)
