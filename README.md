@@ -13,6 +13,10 @@ Here are all the projects I've worked in the past:
 
 ## Guru
 
+Feb 2021 - Apr 2023
+
+![Guru Investimentos](resouces/guru/hero.png)
+
 At Guru, I had the opportunity to work with a dynamic startup in the financial industry, whose goal was to revolutionize the investment experience for the new generation of Brazilian investors. My role was to assist in transforming the existing portfolio manager app into a fully-featured broker app, using a mobile-first approach that simplifies the interface and experience for newcomers.
 
 To achieve this goal, I collaborated closely with the product and design team to develop a new Design System and improved user experience using SwiftUI. As early adopters of this technology in the Brazilian market, we were able to greatly reduce the cost of implementing new features while advocating for the adoption of other iOS platform features like Widgets and AppIntents. I played a critical role in mentoring the engineering team on the implementation of these new features, and I also led negotiations with the product team on how best to integrate them into our app.
@@ -39,6 +43,9 @@ Thanks to our efforts, the Guru app quickly became a standout in the digital bro
 - AppIntents
 
 ## GFG (through Dextra Digital)
+May 2019 - Jan 2021
+
+![GFG](resouces/gfg/hero.png)
 
 During my time at Dextra Digital, I worked on the three main projects of Global Fashion Group in Latin America: Dafiti, Kanui, and Tricae. Our team's mission was to improve the maintenance and performance of these three fashion marketplace apps, which were built using Objective-C and MVC design pattern. My contribution involved separating common business logic and visual components between the apps into separate dependencies, while also converting existing code and developing new ones with Swift using the MVVM pattern.
 
@@ -69,6 +76,8 @@ Our work even resulted in the main app of the suite, Dafiti, being featured on t
 These are apps that have been entirely designed, developed and published by me:
 
 ## AirScrobble
+
+Aug 2022 - _Present_
 
 *[Download for free](https://apps.apple.com/us/app/airscrobble/id1618366994)*
 
