@@ -145,7 +145,7 @@ On the first CocoaHeads meetup after the WWDC 2022 event, I've joined other deve
 
 This discussion was also in Portuguese and you can watch it by clicking on the image below:
 
-[![Guru being feature in WWDC 2022](resouces/presentation/roundatble22.png)](https://www.youtube.com/watch?v=VeGk7-d2k_A&t=18s)
+[![Guru being feature in WWDC 2022](resouces/presentation/roundatble22.png)](https://www.youtube.com/watch?v=VeGk7-d2k_A)
 
 # Open Source
 
