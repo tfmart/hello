@@ -46,6 +46,8 @@ Our efforts resulted in more reliable products for the hundreds of thousands of 
 
 Our work even resulted in the main app of the suite, Dafiti, being featured on the App Store and on the Brazilian website of Apple Pay.
 
+![Dafiti iPad app featured on Apple Pay](resouces/gfg/apple-pay.png)
+
 ### Featured in:
 - [App of the Day](https://apps.apple.com/br/story/id1368071848)
 - [Apple Pay Website (Brazil)](https://www.apple.com/br/apple-pay/)
