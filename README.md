@@ -165,7 +165,7 @@ This discussion was also in Portuguese and you can watch it by clicking on the i
 
 # Open Source
 
-Below are my most notable open-source projects. If you want to checkout some other open source work I've done, you can find them on my Github page. Feel free to contribute to any of them!
+Below are my most notable open-source projects. If you want to checkout some other open source work I've done, you can find them on [my Github page.](https://github.com/tfmart) Feel free to contribute to any of them!
 
 ## LottieUI
 
