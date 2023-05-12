@@ -19,7 +19,7 @@ To achieve this goal, I collaborated closely with the product and design team to
 
 Thanks to our efforts, the Guru app quickly became a standout in the digital broker market, garnering high user satisfaction and accolades from industry experts. Our app was named one of the "Top 10 Financial Apps" in the Brazilian App Store, and was even featured in the Main Event of WWDC 2022 due to its integration with Siri. I'm proud to have been part of this exciting journey and to have contributed to its success.
 
-![Guru being feature in WWDC 2022](resouces/guru/wwdc22.png)
+![Guru being featured in WWDC 2022](resouces/guru/wwdc22.png)
 
 ### Featured in:
 - [Top 10 Finance Apps (Brazilian App Store, as of May 2023)](https://apps.apple.com/br/story/id1599761254)
