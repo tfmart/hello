@@ -138,9 +138,15 @@ With the explosion of ChatGPT on early 2023, I've seen many different use cases 
 
 So with that, Fujilingua was born: an app that let users use natural language to generate film simulation recipe for the Fujifilm cameras through ChatGPT API. Users can create filters from the colors of a specific movie scene, a painting they want to mimic, a mood they want to convey... there are many possibilities and the users can get very specific with their prompts if they want to. The app then will use OpenAI API to send the request to ChatGPT and then display the answer from the LLM. The app will always present the required settings along with an explanation of how they can help the user achieve the look they're after
 
+![The Darkroom](resouces/fujilingua/generate.png)
+
 All generated recipes are stored locally on device, where they can refer to them later and even add images they've captured with the generated recipe, so they can refer on how it looks. If the users wishes to tweak the recipe further, they can quickly edit the recipe settings in the app
 
-I'm planning to release the app in by the end of June, but still it has been quite an great experience. It's been great to get to know OpenAI's API quirks and limits and how to work with a LLM, which is definitely something that we will probably have to be more familiar with in the future. It also provided me with a chance to play with custom controls and animations in SwiftUI, such as the loading animation I built and the custom White Balance Picker I've built, that mimics the one you'd find in an actual Fujifilm camera.
+![Gallery and Recipe](resouces/fujilingua/recipe.png)
+
+I'm planning to release the app in by the end of June, but still it has been quite an great experience. It's been great to get to know OpenAI's API quirks and limits and how to work with a LLM, which is definitely something that we will probably have to be more familiar with in the future. It also provided me with a chance to try the new NavigationStack API and to play with custom controls and animations in SwiftUI, such as the loading animation I built and the custom White Balance Picker I've built, that mimics the one you'd find in an actual Fujifilm camera.
+
+![Learning new things](resouces/fujilingua/experiment.png)
 
 ### Stack
 - Swift
