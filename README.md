@@ -122,9 +122,9 @@ Launching AirScrobble, which was my first self-published app in the App Store ha
 - AppIntents
 
 ### Featured in:
+- [🇬🇧 MacStories: "AirScrobble Greatly Expands Its Utility with Headphone Compatibility, Live Activity Support, and App Shortcuts"](https://www.macstories.net/reviews/airscrobble-greatly-expands-its-utility-with-headphone-compatibility-live-activity-support-and-app-shortcuts/)
 - [🇧🇷 MacMagazine: "Faça scrobble das músicas que ouve em tempo real com o AirScrobble"](https://macmagazine.com.br/post/2023/05/01/faca-scrobble-das-musicas-que-ouve-em-tempo-real-com-o-airscrobble/)
 - [🇩🇪 iPhoneblog.de: "AirScrobble – die freihändige Musikerkennung"](https://www.iphoneblog.de/2023/02/27/airscrobble-die-freihandige-musikerkennung/)
-- [🇬🇧 MacStories: "Scrobbling Apple Music to Last.fm from Windows with AirScrobble and Cider"](https://club.macstories.net/posts/scrobbling-apple-music-to-last-fm-from-windows-with-airscrobble-and-cider)
 
 ## Fujilingua
 
