@@ -191,6 +191,14 @@ LottieUI is a wrapper for the popular Lottie animation library from Airbnb, prov
 
 [You can learn more on the LottieUI repository](https://github.com/tfmart/LottieUI)
 
+## ScrobbleKit
+
+ScrobbleKit is a Swift wrapper for Last.fm's API. The main goal behind this package is providing a simple and modern interface to integrate the website's services into apps Swift apps, by filtering out all odd responses and behaviours of the official API and streamlinig the interaction with features such as scrobbling music, fetching data from the website and much more.
+
+This framework powers all the Last.fm integrations within AirScrobble, including the 35+ action provided by the app in Shortcuts
+
+[You can learn more on the ScrobbleKit repository](https://github.com/tfmart/ScrobbleKit)
+
 ## Giphy
 
 Giphy is a small package to display animated GIFs in SwiftUI. The Giffy view wraps Flipboard's FLAnimatedImage component, which has been field-tested in many major apps such as Facebook and Slack, so you can assure all animations will be memory-efficient
