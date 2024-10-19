@@ -168,7 +168,7 @@ The presentation is in Portuguese, but both the slides and the demo code of the 
 [![AppIntents & Shortcuts presentation](resouces/presentation/appintents.png)](https://www.youtube.com/watch?v=v3nYRXaW7Ko)
 
 - [Presentation](https://drive.google.com/drive/u/0/folders/1rgrMvyJs_-wFyGAKqQTGP3AtGEnRwcmS)
-- [Demo code](https://www.youtube.com/watch?v=v3nYRXaW7Ko&t=1s)
+- [Demo code](https://github.com/tfmart/AppIntentsDemo)
 
 ## Round-table discussion about WWDC 2022 (@ CocoaHeads Campinas)
 
