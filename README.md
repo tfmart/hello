@@ -1,6 +1,6 @@
 # Hello there, I'm Tomás 👋
 
-I am an avid Apple platforms user and developer, with extensive experience creating iOS and macOS apps since 2018. My expertise spans across startups, consulting businesses, and multinational corporations and my won side-projecst, where I have contributed to developing new projects or improving existing ones. My work has been instrumental in expanding revenue, increasing userbase, and earning high praise from users and the media. My apps have been featured by Apple on their App Store, websites, and keynote events. In addition, I am an active member of the iOS community, contributing to open-source projects, conducting presentations for iOS-related events, and coaching team members.
+I am an avid Apple platforms user and developer, with extensive experience creating iOS and macOS apps since 2018. My expertise spans across startups, consulting businesses, and multinational corporations and my own side-projects, where I have contributed to developing new projects or improving existing ones. My work has been instrumental in expanding revenue, increasing userbase, and earning high praise from users and the media. My apps have been featured by Apple on their App Store, websites, and keynote events. In addition, I am an active member of the iOS community, contributing to open-source projects, conducting presentations for iOS-related events, and coaching team members.
 
 If you're looking for an experienced and dedicated developer to bring your product to life or take your existing solution to the next level, I'm here to help. Feel free to reach out to me through any of the following channels:
 
@@ -147,7 +147,7 @@ All generated recipes are stored locally on device, where they can refer to them
 
 ![Gallery and Recipe](resouces/fujilingua/recipe.png)
 
-I'm planning to release the app in by the end of June, but still it has been quite an great experience. It's been great to get to know OpenAI's API quirks and limits and how to work with a LLM, which is definitely something that we will probably have to be more familiar with in the future. It also provided me with a chance to try the new NavigationStack API and to play with custom controls and animations in SwiftUI, such as the loading animation I built and the custom White Balance Picker I've built, that mimics the one you'd find in an actual Fujifilm camera.
+It's been great to get to know OpenAI's API quirks and limits and how to work with a LLM, which is definitely something that we will probably have to be more familiar with in the future. It also provided me with a chance to try the new NavigationStack API and to play with custom controls and animations in SwiftUI, such as the loading animation I built and the custom White Balance Picker I've built, that mimics the one you'd find in an actual Fujifilm camera.
 
 ![Learning new things](resouces/fujilingua/experiment.png)
 
