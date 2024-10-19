@@ -79,7 +79,7 @@ These are apps that have been entirely designed, developed and published by me:
 
 Aug 2022 - _Present_
 
-*[Download for free](https://apps.apple.com/us/app/airscrobble/id1618366994)*
+**[Download for free](https://apps.apple.com/us/app/airscrobble/id1618366994)**
 
 ![AirScrobble](resouces/airscrobble/hero.png)
 
@@ -89,11 +89,11 @@ I've designed the experience to be the most streamlined and ease to use as possi
 
 ![AirScrobble](resouces/airscrobble/record.png)
 
-The app is built entirely in SwiftUI and makes uses of AVFoundation to listen to the user's microphone, ShazamKit to pass the audio stream from the microphone to the Shazam media recognition tool and then interacts with Last.fm REST API in order to scrobble songs to the service. Since the app's debut in August 2022, I've also implemented many new framework and features in order to make it a good iOS citizen, such as integration with the Music app, Lock Screen Widgets and, the most popular one so far, Live Activites.
+The app is built entirely in SwiftUI and makes uses of ShazamKit to recognize songs using both the device's microphone or the system's audio' then interacts with Last.fm REST API in order to scrobble identified songs to the service. Since the app's debut in August 2022, I've also implemented many new framework and features in order to make it a good iOS citizen, such as integration with the Music app, Control Center Widgets, App Intents and, the most popular one so far, Live Activites.
 
 ![AirScrobble Integrations](resouces/airscrobble/integrations.png)
 
-I leveraged the Live Activities framework to build a feature name Auto Match, which let users listen and scrobble to songs playing around them or through their device speakers continuously, even if the app is in the background or the device is locked. By pressing and holding the record button, the Auto Match feature is activated, so the user can then dismiss the app or lock their device, while keeping on track on what's playing around them with the Live Activity widget which, just like inside the app, blends it's visuals nicely with the artwork of what's playing in the moment. Users with the Dynamic Island can also keep track of what's playing on it
+AirScrobble leverages Live Activites to allow users to identify and scrobble songs while using other apps or the device is locked. When the app starts listening for new songs, a Live Activity is created, which displays in both the Lock Screen or in the Dynamic Island which song has been lastly recognized and displays a button to allow users to log it to their Last.fm profile. The Live Activity itself also blends in with the artwork of the current match, making each discovery more joyful and personalized.
 
 ![Auto Match Live Activity](resouces/airscrobble/live-activity.png)
 
@@ -101,9 +101,11 @@ The app also has an iPad version that takes advantage of the screen real estate,
 
 ![iPad features](resouces/airscrobble/ipad.png)
 
-The userbase loves the experience that AirScrobble brings to the table, with many leaving great reviews in the store and some reaching me out to tell me about their experiences. We had a user that used the app to convert cassette mixtapes that were playing on their stereo into Apple Music playlists, one that used the app to scrobble the soundtrack of the movie they were watching at the movie theater and others to scrobble a DJ set. The app also has been covered by the press on websites like MacStories and MacMagazine
+Launching AirScrobble, which was my first self-published app in the App Store has been a tremendously rewarding experience, as I learned more about how to work with more Apple frameworks and how can they work together, got more experience on how to design an experience that filled the needs of my users and to get direct feedback from them.
 
-Launching AirScrobble, which was my first self-published app in the App Store has been a tremendously rewarding experience, as I learned more about how to work with more Apple frameworks and how can they work together, got more experience on how to design an experience that filled the needs of my users and to get direct feedback from them. 
+![What users and the media have said about AirScrobble](resouces/airscrobble/quotes.png)
+
+Over the years, AirScrobble has gathered many praise from it's users and from the media, with a medium App Store rating of 4,7 starts across the globe and by being featured in many Apple news websites and even in the App Store in 2024.
 
 ### Stack
 - Swift
@@ -122,9 +124,10 @@ Launching AirScrobble, which was my first self-published app in the App Store ha
 - AppIntents
 
 ### Featured in:
+- App Store: "Apps We Love" - August 2024
+- [🇬🇧 MacStories: "AirScrobble Greatly Expands Its Utility with Headphone Compatibility, Live Activity Support, and App Shortcuts"](https://www.macstories.net/reviews/airscrobble-greatly-expands-its-utility-with-headphone-compatibility-live-activity-support-and-app-shortcuts/)
 - [🇧🇷 MacMagazine: "Faça scrobble das músicas que ouve em tempo real com o AirScrobble"](https://macmagazine.com.br/post/2023/05/01/faca-scrobble-das-musicas-que-ouve-em-tempo-real-com-o-airscrobble/)
 - [🇩🇪 iPhoneblog.de: "AirScrobble – die freihändige Musikerkennung"](https://www.iphoneblog.de/2023/02/27/airscrobble-die-freihandige-musikerkennung/)
-- [🇬🇧 MacStories: "Scrobbling Apple Music to Last.fm from Windows with AirScrobble and Cider"](https://club.macstories.net/posts/scrobbling-apple-music-to-last-fm-from-windows-with-airscrobble-and-cider)
 
 ## Fujilingua
 
